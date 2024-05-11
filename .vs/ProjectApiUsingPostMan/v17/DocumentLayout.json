@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|d:\\esad-c#\\api\\projectapiusingpostman\\projectapiusingpostman\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\models\\multipartformdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\models\\multipartformdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\provider\\appauthorizeserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\provider\\appauthorizeserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\projectapiusingpostman\\migrations\\202401131537074_empcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84F490-93BB-4644-A388-2839B161FB70}|ProjectApiUsingPostMan\\ProjectApiUsingPostMan.csproj|solutionrelative:projectapiusingpostman\\migrations\\202401131537074_empcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Repository\\UserRepo.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Repository\\UserRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:28:22.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppAuthorizeServerProvider.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Provider\\AppAuthorizeServerProvider.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Provider\\AppAuthorizeServerProvider.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Provider\\AppAuthorizeServerProvider.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Provider\\AppAuthorizeServerProvider.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:26:09.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Startup.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Startup.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Startup.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Startup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:24:27.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultipartFormDataFormatter.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Models\\MultipartFormDataFormatter.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Models\\MultipartFormDataFormatter.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Models\\MultipartFormDataFormatter.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Models\\MultipartFormDataFormatter.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:31:45.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:35:17.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAywI8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:45:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:36:35.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Web.config",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Web.config",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Web.config",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Web.config",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-13T15:23:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Models\\User.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Models\\User.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Models\\User.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:09:39.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:20:44.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202401131537074_EmpCreate.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Migrations\\202401131537074_EmpCreate.cs",
+              "RelativeDocumentMoniker": "ProjectApiUsingPostMan\\Migrations\\202401131537074_EmpCreate.cs",
+              "ToolTip": "D:\\ESAD-C#\\API\\ProjectApiUsingPostMan\\ProjectApiUsingPostMan\\Migrations\\202401131537074_EmpCreate.cs",
+              "RelativeToolTip": "ProjectApiUsingPostMan\\Migrations\\202401131537074_EmpCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T15:37:22.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
